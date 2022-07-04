@@ -5,65 +5,65 @@
 ### Lectures
 
 - [ ]  ([MIT 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)) 1.1 Intro: Algorithmic thinking, peak finding [:tv:`YouTube`](https://youtu.be/HtSuA80QTyo?t=922)
-  - [] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-  - [] [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
-  - [] [R1. Asymptotic Complexity, Peak Finding](https://www.youtube.com/watch?v=P7frcB_-g4w&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=26)
-- [] [(MIT 2011) 1.2 Intro:  Models of computation, document distance](https://youtu.be/Zc54gFhdpLA)
-- [] [(MIT 2022) Lecture 1: Algorithms and Computation](https://youtu.be/ZA-tUyM_y7s)
-- [] [(MIT 2022) Lecture 2: Data Structures](https://youtu.be/CHhwJjR0mZA)
-- [] [(Alg-pt1) W-1: Union−Find](https://www.coursera.org/learn/algorithms-part1/home/week/1)
-- [] [(Alg-pt1) W-1: Analysis of Algorithms](https://www.coursera.org/learn/algorithms-part1/home/week/1)
+  - [ ] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+  - [ ] [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
+  - [ ] [R1. Asymptotic Complexity, Peak Finding](https://www.youtube.com/watch?v=P7frcB_-g4w&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=26)
+- [ ] [(MIT 2011) 1.2 Intro:  Models of computation, document distance](https://youtu.be/Zc54gFhdpLA)
+- [ ] [(MIT 2022) Lecture 1: Algorithms and Computation](https://youtu.be/ZA-tUyM_y7s)
+- [ ] [(MIT 2022) Lecture 2: Data Structures](https://youtu.be/CHhwJjR0mZA)
+- [ ] [(Alg-pt1) W-1: Union−Find](https://www.coursera.org/learn/algorithms-part1/home/week/1)
+- [ ] [(Alg-pt1) W-1: Analysis of Algorithms](https://www.coursera.org/learn/algorithms-part1/home/week/1)
 
 ### Additional videos
 
-- [] [Introduction to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk)
-- [] [How Write and Analyze Algorithm](https://www.youtube.com/watch?v=xGYsEqe9Vl0)
+- [ ] [Introduction to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk)
+- [ ] [How Write and Analyze Algorithm](https://www.youtube.com/watch?v=xGYsEqe9Vl0)
 
 ### Books
 
-- [] Cracking the Coding Interview, 6th Edition| VI. **Big O** pages `[38-45]`
-- [] Grokking Algorithms| Big O notation pages `[10-19]`
-- [] Algorithms 1.4 Analysis of Algorithms pages `[172-214]`
+- [ ] Cracking the Coding Interview, 6th Edition| VI. **Big O** pages `[38-45]`
+- [ ] Grokking Algorithms| Big O notation pages `[10-19]`
+- [ ] Algorithms 1.4 Analysis of Algorithms pages `[172-214]`
 
 ### Patterns
 
 This unit should cover all arrays patterns
 
-- [] Sliding Window
-  - [] [Grokking  the coding interview: Sliding window](https://www.educative.io/courses/grokking-the-coding-interview/7D5NNZWQ8Wr)
-  - [] [Leetcode post (1)](https://leetcode.com/discuss/study-guide/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
-- [] Two Pointers
-  - [] [Grokking the coding interview: Two pointers](https://www.educative.io/courses/grokking-the-coding-interview/xlK78P3Xl7E)
-  - [] [Leetcode post (1)](https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers)
-  - [] [Leetcode post (2)](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days.)
-- [] Union-Find
-  - [] [Leetcode(1)](https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide)
+- [ ] Sliding Window
+  - [ ] [Grokking  the coding interview: Sliding window](https://www.educative.io/courses/grokking-the-coding-interview/7D5NNZWQ8Wr)
+  - [ ] [Leetcode post (1)](https://leetcode.com/discuss/study-guide/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
+- [ ] Two Pointers
+  - [ ] [Grokking the coding interview: Two pointers](https://www.educative.io/courses/grokking-the-coding-interview/xlK78P3Xl7E)
+  - [ ] [Leetcode post (1)](https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers)
+  - [ ] [Leetcode post (2)](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days.)
+- [ ] Union-Find
+  - [ ] [Leetcode(1)](https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide)
 
 ### Practice
 
-- [] Union-Find (Disjoint-set) implementation
-- [] Pass `Time complexity` and `Arrays` topics in [https://www.interviewbit.com/courses/programming/](https://www.interviewbit.com/courses/programming/)
+- [ ] Union-Find (Disjoint-set) implementation
+- [ ] Pass `Time complexity` and `Arrays` topics in [https://www.interviewbit.com/courses/programming/](https://www.interviewbit.com/courses/programming/)
 
 ### Leetcode
 
-- [] Sliding window
-  - [] [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit `[M]`](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
-  - [] [1004. Max Consecutive Ones III `[M]`](https://leetcode.com/problems/max-consecutive-ones-iii/)
-  - [] [239. Sliding Window Maximum `[H]`](https://leetcode.com/problems/sliding-window-maximum/)
-  - [] [424. Longest Repeating Character Replacement `[M]`](https://leetcode.com/problems/longest-repeating-character-replacement/)
-  - [] [713. Subarray Product Less Than K `[M]`](https://leetcode.com/problems/subarray-product-less-than-k/)
-  - [] [209. Minimum Size Subarray Sum `[M]`](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- [] Two pointers
-  - [] [15. 3Sum `[M]`](https://leetcode.com/problems/3sum/)
-  - [] [16. 3Sum Closest `[M]`](https://leetcode.com/problems/3sum-closest/)
-  - [] [19. Remove Nth Node From End of List `[M]`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-  - [] [809. Expressive Words `[M]`](https://leetcode.com/problems/expressive-words/)
-  - [] [680. Valid Palindrome II `[E]`](https://leetcode.com/problems/valid-palindrome-ii/)
-  - [] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
-- [] Union-find
-  - [] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-  - [] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
-  - [] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+- [ ] Sliding window
+  - [ ] [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit `[M]`](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+  - [ ] [1004. Max Consecutive Ones III `[M]`](https://leetcode.com/problems/max-consecutive-ones-iii/)
+  - [ ] [239. Sliding Window Maximum `[H]`](https://leetcode.com/problems/sliding-window-maximum/)
+  - [ ] [424. Longest Repeating Character Replacement `[M]`](https://leetcode.com/problems/longest-repeating-character-replacement/)
+  - [ ] [713. Subarray Product Less Than K `[M]`](https://leetcode.com/problems/subarray-product-less-than-k/)
+  - [ ] [209. Minimum Size Subarray Sum `[M]`](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [ ] Two pointers
+  - [ ] [15. 3Sum `[M]`](https://leetcode.com/problems/3sum/)
+  - [ ] [16. 3Sum Closest `[M]`](https://leetcode.com/problems/3sum-closest/)
+  - [ ] [19. Remove Nth Node From End of List `[M]`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+  - [ ] [809. Expressive Words `[M]`](https://leetcode.com/problems/expressive-words/)
+  - [ ] [680. Valid Palindrome II `[E]`](https://leetcode.com/problems/valid-palindrome-ii/)
+  - [ ] [31. Next Permutation `[M]`](https://leetcode.com/problems/next-permutation/)
+- [ ] Union-find
+  - [ ] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+  - [ ] [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+  - [ ] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 
 ## Sorts (Unit 2)
 
