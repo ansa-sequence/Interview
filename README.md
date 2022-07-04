@@ -1,7 +1,7 @@
 # Вопросы для интервью
-- [Questions And Anwsers](QuestionsAndAnswers.md)
+- [Вопросы и ответы](QuestionsAndAnswers.md)
 
 # Материалы для алгортимической подготовки к собеседованиям :
-- [Syllabus](Syllabus.md)
-- [Grokking](Grokking.md)
-- [Materials](Materials.md)
+- [Учебный план](Syllabus.md)
+- [Задачи](Grokking.md)
+- [Материалы](Materials.md)
