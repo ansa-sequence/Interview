@@ -4,7 +4,7 @@
 
 ### Lectures
 
-- []  ([MIT 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)) 1.1 Intro: Algorithmic thinking, peak finding [:tv:`YouTube`](https://youtu.be/HtSuA80QTyo?t=922)
+- [ ]  ([MIT 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)) 1.1 Intro: Algorithmic thinking, peak finding [:tv:`YouTube`](https://youtu.be/HtSuA80QTyo?t=922)
   - [] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
   - [] [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
   - [] [R1. Asymptotic Complexity, Peak Finding](https://www.youtube.com/watch?v=P7frcB_-g4w&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=26)
