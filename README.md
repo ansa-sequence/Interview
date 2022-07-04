@@ -1,5 +1,10 @@
 # InverviewQuestions
 
+# Материалы для алгортимической подготовки к собеседованиям :
+- [Syllabus](Syllabus.md)
+- [Grokking](Grokking.md)
+- [Materials](Materials.md)
+
 ## 0. Назовите отличия ссылки и указателя?
 
 **Ответ:**
