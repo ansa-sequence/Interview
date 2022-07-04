@@ -1,4 +1,4 @@
-# InverviewQuestions
+# Вопросы для интервью
 - [Questions And Anwsers](QuestionsAndAnswers.md)
 
 # Материалы для алгортимической подготовки к собеседованиям :
