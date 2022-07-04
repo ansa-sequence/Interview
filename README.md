@@ -1,5 +1,5 @@
 # InverviewQuestions
-- [Qustions And Anwsers](QustionsAndAnswers.md)
+- [Questions And Anwsers](QuestionsAndAnswers.md)
 
 # Материалы для алгортимической подготовки к собеседованиям :
 - [Syllabus](Syllabus.md)
