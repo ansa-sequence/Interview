@@ -1,7 +1,5 @@
 # GROKKING NOTES
 
-This list is stolen from https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
-
 ## Pattern: Sliding Window
 
 * https://leetcode.com/problems/maximum-subarray/ # Close enough
